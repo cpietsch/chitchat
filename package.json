@@ -1,7 +1,7 @@
 {
   "name": "chitchat",
   "version": "1.0.0",
-  "description": "ripple challenge",
+  "description": "pseudo chat example",
   "author": "Christopher Pietsch",
   "private": true,
   "scripts": {
