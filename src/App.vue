@@ -28,7 +28,7 @@ export default {
   html, body {
     padding: 0;
     margin: 0;
-    background: #f4f4f4;
+    background: #f9f9f9;
   }
 
   input, button {
@@ -42,5 +42,8 @@ export default {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     position: relative;
+    max-width: 800px;
+    background: #f4f4f4;
+    height: 100vh;
   }
 </style>
